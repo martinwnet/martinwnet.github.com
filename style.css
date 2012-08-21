@@ -1,0 +1,35 @@
+body{
+		background-color: #F6F6F6;
+		color: #2A2B2E;
+		
+		font-family: 'Quando', Verdana, Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		background-image:url('redox_01.png');
+}
+
+h1 {
+		text-align: center;
+}
+h2{
+		text-align: center;
+		color: #3D3F43;
+}
+h3{
+		color: #3D3F43;
+		font-size: 14px;
+}
+
+div.rapSinger{
+		margin: auto;
+		width:500px;
+		height:200px;
+}
+
+
+a{
+		color: #245B8F;
+		text-decoration: none;
+}
+a:hover{
+		text-decoration:underline;
+}
