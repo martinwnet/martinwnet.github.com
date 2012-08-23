@@ -79,3 +79,6 @@ a.blog {
 a.circle:hover {
 	background-color: #000;
 }
+a.circle:active{
+	background-color:#043963;
+}
