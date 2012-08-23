@@ -1,90 +1,81 @@
-body{
-		background-color: #F6F6F6;
-		color: #2A2B2E;
-		
-		font-family: 'Quando', Verdana, Arial, Helvetica, sans-serif;
-		font-size: 16px;
-		background-image:url('redox_01.png');
-		
-		margin: 0px auto;
-		max-width:500px;
+body {
+	background-color: #F6F6F6;
+	color: #2A2B2E;
+	font-family: 'Quando', Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-image: url('redox_01.png');
+	margin: 0px auto;
+	max-width: 500px;
 }
 
 h1 {
-		text-align: center;
+	text-align: center;
 }
-h2{
-		text-align: center;
-		color: #3D3F43;
+h2 {
+	text-align: center;
+	color: #3D3F43;
 }
-h3{
-		color: #3D3F43;
-		font-size: 14px;
-}
-
-div.rapSinger{
-	
+h3 {
+	color: #3D3F43;
+	font-size: 14px;
 }
 
+div.rapSinger {
 
-a{
-		color: #245B8F;
-		text-decoration: none;
 }
-a:hover{
-		text-decoration:underline;
+
+a {
+	color: #245B8F;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 
 div.center {
-    text-align: center;
+	text-align: center;
 }
 
 a.circle {
-    background-color: white;
-    width: 60px;
-    height: 60px;
-    display: inline-block;
-    margin: 10px 25px;
-    
-    background-size: 50px;/*for image*/
-   background-repeat: no-repeat;
-   background-position: center;
-    
-    /*circle*/
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    border-radius: 30px;
-    
-    /*shadow*/
-    -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
-    -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+	background-color: white;
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	margin: 10px 25px;
+	background-size: 50px;/*for image*/
+	background-repeat: no-repeat;
+	background-position: center;
+	/*circle*/
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	/*shadow*/
+	-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+	-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
 }
 
-
-a.twitter{
-    background-image:url('images/twitter.png');
-    background-size: 60px;
-    background-color: #00aced;
-    
+a.twitter {
+	background-image: url('images/twitter.png');
+	background-size: 60px;
+	background-color: #00aced;
 }
 
-a.github{
+a.github {
 	background-image: url('images/github.png');
 	background-color: #72C3DF;/*#9cdaef;*/
 }
 
-a.linkedin{
-    background-image:url('images/linkedin.png');
-    background-size: 60px;
-    background-color: #147eb8;
+a.linkedin {
+	background-image: url('images/linkedin.png');
+	background-size: 60px;
+	background-color: #147eb8;
 }
 
-
-a.blog{
-	background-image:url('http://cdn4.iconfinder.com/data/icons/Primo_Icons/PNG/64x64/blog_compose.png');
+a.blog {
+	background-image: url('http://cdn4.iconfinder.com/data/icons/Primo_Icons/PNG/64x64/blog_compose.png');
 }
 
-a:hover{
+a:hover {
 	background-color: #000;
 }
